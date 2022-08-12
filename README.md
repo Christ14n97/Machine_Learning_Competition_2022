@@ -7,7 +7,8 @@ The USBC conducts various yearly surveys; as well as the decennial census, which
 Data obtained essentially enables federal and local governments to make educated decisions regarding the allocation of federal funds, international trade,
 health, housing, and other influential elements to the standard of living.
 
-This project helped us gaining hands-on experience of the theory learned along the course. Among those aspects we put into practice, it can be highlighted:
+This project helped us gaining hands-on experience of the theory learned along the [course](https://github.com/Christ14n97/Machine_Learning_Competition_2022/blob/master/ML_syllabus2022.pdf).
+Among those aspects we put into practice, it can be highlighted:
 
 1. Data exploration
 3. Feature engineering
