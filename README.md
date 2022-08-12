@@ -14,7 +14,7 @@ This project helped us gaining hands-on experience of the theory learned along t
 4. Missing values imputation
 5. Model selection and training
 6. Hyperparameter tuning by cross-validation
-7. Model performance comparison by setting a unified criteria
+7. Model performance comparison by setting an unified criteria
 8. Stacking
 
 Our final model reached the 10th place in the private leaderboard with an $accuracy = 0.85687$.
